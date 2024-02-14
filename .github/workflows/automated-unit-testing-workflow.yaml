@@ -1,5 +1,5 @@
 name: Automated Testing 
-
+Test
 on:
   push:
     branches: [main, dev/*]
